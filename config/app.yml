@@ -1,0 +1,8 @@
+#  A sample configuration below:
+#all:
+#  teo_mail_notify:
+#    types:
+#      user_registration: UserRegistrationTemplate
+#      admin_report: AdminReportContentTemplate
+
+all:
